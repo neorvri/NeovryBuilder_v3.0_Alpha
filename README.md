@@ -10,7 +10,11 @@ NeovryBuilder v3.0 es un sistema quirúrgico que permite:
 - Activar flujos visuales desde cualquier dispositivo.
 - Validar módulos con copy emocional-técnico.
 - Documentar y replicar workflows sin fricción.
-- Delegar ejecución a afiliados y comunidad sin perder control.
+- Delegar ejecución a afiliados y comunidad sin perder control.  ## 🚀 Activación desde móvil
+
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/neorvri/neorybuilder-v3-alpha.git
 
 ## 📁 Estructura del sistema
 
