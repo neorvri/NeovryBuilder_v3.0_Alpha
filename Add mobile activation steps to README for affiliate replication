@@ -1,0 +1,28 @@
+# NeovryBuilder v3.0_Alpha
+
+Sistema modular, activable y replicable desde móvil.  
+Activación desde dispositivos que operan en caliente, sin ruido y con validación emocional.
+
+---
+
+## Propósito
+
+NeovryBuilder v3.0 es un sistema quirúrgico que permite:
+
+- Activar flujos visuales desde cualquier dispositivo móvil  
+- Validar desde el móvil, desplegar desde el móvil  
+- Replicar workflows en comunidades y afiliados
+
+---
+
+## Requisitos
+
+- Cuenta en GitHub  
+- Cuenta en Vercel  
+- Dispositivo móvil con navegador  
+- Conexión estable  
+- Dependencias instaladas (`npm install` si se trabaja local)
+
+---
+
+## Estructura del sistema
