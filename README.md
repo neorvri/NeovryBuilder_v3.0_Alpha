@@ -1,40 +1,12 @@
-# 🧬 NeovryBuilder v3.0_Alpha
+# NeovryBuilder v3.0 Alpha (Netlify)
 
-Sistema modular, activable y replicable desde móvil.  
-Diseñado para estrategas digitales que operan en caliente, sin ruido y con validación real.
+## Activación desde móvil
+1. Clona este repositorio desde GitHub Mobile
+2. Abre en Codespaces o navegador
+3. Accede al sistema desplegado en:  
+   🔗 https://neovrybuilder-v3-0-alpha-netlify.netlify.app
 
-## 🚀 Propósito
-
-NeovryBuilder v3.0 es un sistema quirúrgico que permite:
-
-- Activar flujos visuales desde cualquier dispositivo.
-- Validar módulos con copy emocional-técnico.
-- Documentar y replicar workflows sin fricción.
-- Delegar ejecución a afiliados y comunidad sin perder control.
-
-## 📁 Estructura del sistema
-
-📁 NeovryBuilder_v3.0  
-├── components/  
-│   ├── ui/ → BotonDesbloqueo.tsx  
-│   └── feedback/ → ValidacionEmocional.tsx  
-├── workflows/ → activacion/index.ts  
-├── docker/ → crm-compose.yml  
-├── public/ → assets/  
-├── docs/ → README.md  
-├── vercel.json  
-├── .gitignore  
-
-## 🔧 Activación desde móvil
-
-1. Clona el repositorio en GitHub Mobile o Codespaces.  
-2. Edita y valida módulos en caliente.  
-3. Despliega en Vercel con conexión visual.  
-4. Documenta cada iteración para la comunidad.
-
-## 💬 Validación emocional
-
-Cada componente transmite liderazgo y autenticidad.  
-Ejemplo:
-```tsx
-<ValidacionEmocional mensaje="Este módulo refleja tu ejecución real. Validado." />
+## Despliegue
+- Plataforma: Netlify
+- Build: `npm run build`
+- Output: `.next`
