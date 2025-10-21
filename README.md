@@ -1,40 +1,29 @@
-# 🧬 NeovryBuilder v3.0_Alpha
+# 🚀 EntregaElite_v1 - Módulo Activador
 
-Sistema modular, activable y replicable desde móvil.  
-Diseñado para estrategas digitales que operan en caliente, sin ruido y con validación real.
+Este paquete incluye los componentes esenciales para activar, documentar y replicar el sistema EntregaElite_v1 desde móvil o escritorio.
 
-## 🚀 Propósito
+## 🔧 Repositorios incluidos
 
-NeovryBuilder v3.0 es un sistema quirúrgico que permite:
+| Repositorio                          | Descripción breve |
+|-------------------------------------|-------------------|
+| `activador-elite-v1-core`           | Módulo funcional principal para activación |
+| `activador-elite-v1-docs-blueprint`| Guión, checklist y documentación para afiliados |
+| `neovrybuilder-v3-alpha-core`       | Núcleo técnico del builder visual |
+| `neovrybuilder-v3-alpha-ui`         | Interfaz visual optimizada para despliegue |
 
-- Activar flujos visuales desde cualquier dispositivo.
-- Validar módulos con copy emocional-técnico.
-- Documentar y replicar workflows sin fricción.
-- Delegar ejecución a afiliados y comunidad sin perder control.
+## 📦 Instrucciones de uso
 
-## 📁 Estructura del sistema
+1. Clona los repositorios que necesites.
+2. Sigue el guión en `activador-elite-v1-docs-blueprint`.
+3. Ejecuta desde móvil o escritorio según tu entorno.
+4. Documenta cada paso si haces ajustes para replicabilidad.
 
-📁 NeovryBuilder_v3.0  
-├── components/  
-│   ├── ui/ → BotonDesbloqueo.tsx  
-│   └── feedback/ → ValidacionEmocional.tsx  
-├── workflows/ → activacion/index.ts  
-├── docker/ → crm-compose.yml  
-├── public/ → assets/  
-├── docs/ → README.md  
-├── vercel.json  
-├── .gitignore  
+## 🧠 Recomendaciones
 
-## 🔧 Activación desde móvil
+- No edites directamente los repositorios core sin duplicarlos.
+- Usa etiquetas claras en cada commit para trazabilidad.
+- Si el sistema falla, documenta el cierre y blueprinta la solución.
 
-1. Clona el repositorio en GitHub Mobile o Codespaces.  
-2. Edita y valida módulos en caliente.  
-3. Despliega en Vercel con conexión visual.  
-4. Documenta cada iteración para la comunidad.
+---
 
-## 💬 Validación emocional
-
-Cada componente transmite liderazgo y autenticidad.  
-Ejemplo:
-```tsx
-<ValidacionEmocional mensaje="Este módulo refleja tu ejecución real. Validado." />
+¿Quieres que empaquete esto como bloque final del módulo EntregaElite_v1 o avanzamos al guión de activación para TikTok?
